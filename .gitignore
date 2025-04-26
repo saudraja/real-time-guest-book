@@ -11,3 +11,4 @@ storage/*
 .byebug_history
 coverage/
 dist/
+.vscode/
