@@ -1,0 +1,13 @@
+# Ignore Rails and Vue temp files
+log/*
+tmp/*
+vendor/bundle/*
+node_modules/
+public/packs/
+public/assets/
+storage/*
+*.sqlite3
+*.env
+.byebug_history
+coverage/
+dist/
